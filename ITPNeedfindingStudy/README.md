@@ -1,5 +1,5 @@
 # Lean Proof Exercises
-List of proof exercises completed in FILENAME:
+List of proof exercises completed in ``Demos.lean``:
 1. For $a, b, c, d \in \mathbb{Z}$, show that if $a, c$ and $b+d$ are all odd, then $ab + cd$ is also odd.
 2. Prove that if 5 divides $n + 7$ for $n \in \mathbb{Z}$, then 5 divides $n^2 + 1$.
 3. For $n, a, b, x, y \in \mathbb{Z}$, given that $n$ divides $a$ and $n$ divides $b$, prove that $n$ divides $ax + by$.
