@@ -1,0 +1,6 @@
+# A Needfinding Study on Interactive Theorem Provers
+Although Interactive Theorem Provers (ITPs) have historically been used for verification and formalization purposes in industry and academia, several studies have advocated for their use as learning tools in undergraduate proof-based courses that are commonly offered by the Computer Science (CS) and Mathematics departments of higher educational institutions.
+
+To repurpose ITPs for educational usage and responsibly integrate them into undergraduate courses, **identifying the challenges and needs of instructors and students in proof-based courses is a necessary first step**. As such, we conducted a need-finding study to explore the natural processes behind teaching and learning proofs in undergraduate CS courses. As a part of this process, we interviewed 16 CS instructors and 20 CS undergraduatesm, performed a thematic analysis of the qualitative data, and proposed a **conceptual framework capturing common challenges and needs**. We also evaluated whether [Lean](https://lean-lang.org/), an ITP that has already captured the interest of the educational community, can support any of our identified challenges or needs. 
+
+Here, we provide public access to our conceptual framework and some of the Lean proof exercises that were demoed as a part of our evaluation.
